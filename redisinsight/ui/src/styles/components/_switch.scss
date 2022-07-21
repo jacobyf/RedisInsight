@@ -18,7 +18,7 @@
     }
   }
   .euiSwitch__button:disabled {
-    opacity: 50%;
+    opacity: 50% !important;
 
     .euiSwitch__icon {
       display: none;
